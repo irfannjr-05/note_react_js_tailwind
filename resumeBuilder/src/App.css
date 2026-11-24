@@ -1,0 +1,110 @@
+#img {
+  height: 100vh;
+  background-image: url("https://ai-r-builder-dec25.vercel.app/landing.png");
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#link {
+  background-color: rgb(153, 83, 83);
+  margin-top: 10px;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+#heading {
+  padding-bottom: 20px;
+  line-height: 40px;
+}
+.container h1 {
+  text-align: center;
+  margin: 25px 0 30px;
+  font-size: 40px;
+}
+
+#img1 {
+  height: 500px;
+  margin-right: 100px;
+}
+
+#para p {
+  margin: 0px 100px 16px;
+  padding: 0px 100px;
+  font-size: 17px;
+  line-height: 25px;
+}
+#container1 {
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+
+#images img {
+  width: 100px;
+  padding: 2px;
+}
+
+#text h5 {
+  margin: 0 100px 8px;
+  padding: 0px 100px;
+  font-size: 25px;
+  line-height: 25px;
+  padding-bottom: 10px;
+}
+
+#text p {
+  margin: 0 100px 16px;
+  padding: 0px 100px;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+#images {
+  display: grid;
+  grid-template-columns: repeat(4, 75px);
+  column-gap: 50px;
+  row-gap: 20px;
+  justify-content: center;
+  margin-right: 100px;
+  margin: 100px;
+}
+
+#a h4 {
+  margin-bottom: 5px;
+  font-size: 25px;
+  padding-left: 50px;
+  margin-top: 60px;
+}
+
+#a p {
+  font-size: 17px;
+  padding-left: 50px;
+  line-height: 30px;
+  margin-bottom: 80px;
+  margin-top: 30px;
+  margin-right: 500px;
+  text-align: justify;
+}
+
+#c {
+  margin-right: 200px;
+  margin-top: 60px;
+  line-height: 30px;
+  padding-right: 100px;
+}
+
+#c h4 {
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+#c h5 {
+  font-size: 25px;
+}
+
